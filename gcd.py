@@ -9,6 +9,6 @@ def gcd(a,b):
     else:
         return gcd(b, a%b)
 
-a=81
-b=57
-print gcd(a,b)
+# a=81
+# b=57
+# print gcd(a,b)
